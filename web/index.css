@@ -1,0 +1,35 @@
+
+body{
+	margin : 0;
+}
+
+/*
+ * nav 아래 이미지
+ */
+.imgcontainer{
+    position:relative;
+   
+}
+
+#imgspace{
+    width: 100%;
+    height: auto;
+}
+
+#imgspace:hover{
+    filter : blur(5px);
+}
+
+#title{
+    position: absolute;
+    left : 0;
+    top : 45%;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0,0,0,0);
+    font-size: 200%;
+    color : #fbfdff;
+}
+p{
+    color : white;
+}
