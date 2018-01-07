@@ -83,7 +83,7 @@
 
 
     </style>
-    <title>비밀번호 변경</title>
+    <title>비밀번호 변경하기</title>
 </head>
 <body>
 <% String email = (String)session.getAttribute("id");
